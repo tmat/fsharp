@@ -103,6 +103,5 @@ echo Done initializing tools.
 echo Init-Tools.cmd completed for BuildTools Version: %BUILDTOOLS_VERSION% > "%BUILD_TOOLS_SEMAPHORE%"
 
 :DONE
-
 exit /b %TOOLS_INIT_RETURN_CODE%
 
