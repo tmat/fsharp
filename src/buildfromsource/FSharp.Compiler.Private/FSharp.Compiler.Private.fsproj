@@ -625,8 +625,8 @@
     "System.Threading.Tasks.Parallel": "4.3.0",
     "System.Threading.Thread": "4.3.0",
     "System.Threading.ThreadPool": "4.3.0",
-    "Microsoft.DiaSymReader.PortablePdb": "1.1.0",
-    "Microsoft.DiaSymReader": "1.1.0",
+    "Microsoft.DiaSymReader.PortablePdb": "1.4.0-beta1-62209-01",
+    "Microsoft.DiaSymReader": "1.2.0-beta1-62209-01",
     "System.ValueTuple": "4.3.1"
 -->
   <ItemGroup>
@@ -647,8 +647,8 @@
     <PackageReference Include="System.Threading.Tasks.Parallel" Version="4.3.0"></PackageReference>
     <PackageReference Include="System.Threading.Thread" Version="4.3.0"></PackageReference>
     <PackageReference Include="System.Threading.ThreadPool" Version="4.3.0"></PackageReference>
-    <PackageReference Include="Microsoft.DiaSymReader.PortablePdb" Version="1.1.0"></PackageReference>
-    <PackageReference Include="Microsoft.DiaSymReader" Version="1.1.0"></PackageReference>
+    <PackageReference Include="Microsoft.DiaSymReader.PortablePdb" Version="1.4.0-beta1-62209-01"></PackageReference>
+    <PackageReference Include="Microsoft.DiaSymReader" Version="1.2.0-beta1-62209-01"></PackageReference>
     <PackageReference Include="System.ValueTuple" Version="4.3.1"></PackageReference>
   </ItemGroup>
 
